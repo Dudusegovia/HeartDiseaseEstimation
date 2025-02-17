@@ -20,13 +20,11 @@ Resultados
 
 Contribuição
 
-Licença
-
-Descrição
+## Descrição
 
 O Heart Disease Estimation é um modelo de aprendizado de máquina desenvolvido para prever a presença de doenças cardíacas com base em características clínicas. O projeto envolve pré-processamento de dados, análise exploratória e modelagem preditiva.
 
-Conjunto de Dados
+## Conjunto de Dados
 
 O conjunto de dados utilizado contém informações sobre pacientes e suas condições cardíacas. Algumas das principais variáveis incluem:
 
@@ -48,7 +46,7 @@ ST_Slope: Inclinação do segmento ST durante esforço.
 
 HeartDisease: (0: Sem doença, 1: Presença de doença cardíaca).
 
-Pré-requisitos
+## Pré-requisitos
 
 Python 3.x
 
@@ -56,7 +54,7 @@ Jupyter Notebook
 
 Bibliotecas: numpy, pandas.
 
-Instalação
+## Instalação
 
 Clone o repositório:
 
@@ -75,7 +73,7 @@ Instale as dependências:
 
 pip install -r requirements.txt
 
-Uso
+## Uso
 
 Para executar o notebook, use:
 
@@ -83,7 +81,7 @@ jupyter notebook Estimativa_cardiaca.ipynb
 
 O notebook segue uma sequência lógica desde a importação dos dados até a avaliação do modelo.
 
-Metodologia
+## Metodologia
 
 Carregamento e exploração dos dados
 
@@ -95,11 +93,11 @@ Treinamento de modelos de aprendizado de máquina
 
 Avaliação dos modelos com métricas de desempenho
 
-Resultados
+## Resultados
 
 Os resultados incluem métricas como acurácia, precisão, recall e matriz de confusão para avaliar o desempenho dos modelos aplicados ao problema de detecção de doenças cardíacas.
 
-Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Para colaborar:
 
